@@ -43,9 +43,9 @@ from dataclasses import dataclass
 
 ## Conclusions
 
-Of course, playing against the AI opponent is about as productive as playing traditional 3x3 tic-tac-toe.  But, I think it's remarkable that Claude 3.5 Sonnet coded up a [alpha-beta-pruning search strategy](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning#:~:text=Alpha%E2%80%93beta%20pruning%20is%20a,possibly%20influence%20the%20final%20decision.) -- chosen of its own volition. Then when prompted to, it add continuous background thinking.  
+Of course, playing against the AI opponent is about as productive as playing traditional 3x3 tic-tac-toe.  But, I think it's remarkable that Claude 3.5 Sonnet coded up an [alpha-beta-pruning search strategy](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning#:~:text=Alpha%E2%80%93beta%20pruning%20is%20a,possibly%20influence%20the%20final%20decision.) -- chosen of its own volition. Then when prompted to, it add continuous background thinking.  
 
-Play it. To be sure, the AI opponent **will** beat you if you aren't diligent!
+Play it. Have fun! (*To be sure, the AI opponent **will** beat you if you aren't diligent!*)
 
 By [Michael L. Thompson](https://www.linkedin.com/in/mlthomps/)
 
