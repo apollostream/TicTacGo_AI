@@ -1,6 +1,9 @@
 # TicTacGo_AI
 A Python script written by Claude 3.5 Sonnet for Tic-Tac-Go (12x12 tic-tac-toe) with AI opponent
 
+**Copyright 2024** [Michael L. Thompson](https://www.linkedin.com/in/mlthomps/)
+
+
 ## Introduction
 
 This Python script was inspired by the article, ["ChatGPT coded a game for me in seconds and I am simply astounded – and coders should be very worried"](https://www.techradar.com/computing/artificial-intelligence/chatgpt-coded-a-game-for-me-in-seconds-and-i-am-simply-astounded-and-coders-should-be-very-worried?utm_source=flipboard&utm_content=topic/artificialintelligence), by [Lance Ulanoff](https://www.techradar.com/author/lance-ulanoff) published Nov. 7, 2024 on [TechRadar](https://www.techradar.com/).
@@ -46,7 +49,5 @@ from dataclasses import dataclass
 Of course, playing against the AI opponent is about as productive as playing traditional 3x3 tic-tac-toe.  But, I think it's remarkable that Claude 3.5 Sonnet coded up an [alpha-beta-pruning search strategy](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning#:~:text=Alpha%E2%80%93beta%20pruning%20is%20a,possibly%20influence%20the%20final%20decision.) -- chosen of its own volition. Then when prompted to, it add continuous background thinking.  
 
 Play it. Have fun! (*To be sure, the AI opponent **will** beat you if you aren't diligent!*)
-
-By [Michael L. Thompson](https://www.linkedin.com/in/mlthomps/)
 
 * For another intriguing Generative AI project, see my Github repository ["Proposition-Analysis"](https://github.com/apollostream/Proposition-Analysis).
