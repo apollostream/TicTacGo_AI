@@ -1,5 +1,5 @@
 # TicTacGo_AI
-A Python script written by Claude 3.5 Sonnet for Tic-Tac-Go (12x12 tic-tac-toe) with AI opponent
+A Python script written by M.L. Thompson, with Claude 3.5 Sonnet, for Tic-Tac-Go (12x12 tic-tac-toe) with AI opponent
 
 **Copyright 2024** [Michael L. Thompson](https://www.linkedin.com/in/mlthomps/)
 
