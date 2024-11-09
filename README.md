@@ -47,6 +47,6 @@ Of course, playing against the AI opponent is about as productive as playing tra
 
 Play it. To be sure, the AI opponent **will** beat you if you aren't diligent!
 
-By [Michael L. Thompson](www.linkedin.com/in/mlthomps)
+By [Michael L. Thompson](https://www.linkedin.com/in/mlthomps/)
 
 * For another intriguing Generative AI project, see my Github repository ["Proposition-Analysis"](https://github.com/apollostream/Proposition-Analysis).
