@@ -5,7 +5,7 @@ A Python script written by Claude 3.5 Sonnet for Tic-Tac-Go (12x12 tic-tac-toe) 
 
 This Python script was inspired by the article, ["ChatGPT coded a game for me in seconds and I am simply astounded – and coders should be very worried"](https://www.techradar.com/computing/artificial-intelligence/chatgpt-coded-a-game-for-me-in-seconds-and-i-am-simply-astounded-and-coders-should-be-very-worried?utm_source=flipboard&utm_content=topic/artificialintelligence), by [Lance Ulanoff](https://www.techradar.com/author/lance-ulanoff) published Nov. 7, 2024 on [TechRadar](https://www.techradar.com/).
 
-## How it Was Done
+## How It Was Done
 
 I entered Ulanoff's prompt into [Anthropic's Claude 3.5 Sonnet](https://claude.ai/chat/). Here's the prompt:
 
