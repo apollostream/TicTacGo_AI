@@ -28,7 +28,7 @@ Then, eventually, this prompt:
 
 After a couple more rounds of back and forth, including getting it to add "." in each available valid move position on the displayed board, I ended up with the following script:
 
-(*In total, this is the 9th version of the code it generated for me. It includes my minor manual code revisions (e.g., ensuring good board spacing & alignment).*)
+(*In total, this is the 9th version of the code it generated. It includes my manual code revisions (e.g., ensuring good board spacing & alignment).*)
 
 * [Tic-Tac-Go-threaded3.py](tic-tac-go-threaded3.py)
 
