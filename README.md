@@ -30,7 +30,7 @@ After a couple more rounds of back and forth, including getting it to add "." in
 
 (*In total, this is the 9th version of the code it generated. It includes my manual code revisions (e.g., ensuring good board spacing & alignment).*)
 
-* [Tic-Tac-Go-threaded3.py](tic-tac-go-threaded3.py)
+* [tic-tac-go-threaded3.py]((https://github.com/apollostream/TicTacGo_AI/blob/main/tic-tac-go-threaded3.py)
 
 **NOTE:** You'll have to take it upon yourself to install the necessary packages so that the script's following `import` statements will work:
   
@@ -46,7 +46,7 @@ from dataclasses import dataclass
 
 ## Conclusions
 
-Of course, playing against the AI opponent is about as productive as playing traditional 3x3 tic-tac-toe.  But, I think it's remarkable that Claude 3.5 Sonnet coded up an [alpha-beta-pruning search strategy](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning#:~:text=Alpha%E2%80%93beta%20pruning%20is%20a,possibly%20influence%20the%20final%20decision.) -- chosen of its own volition. Then when prompted to, it add continuous background thinking.  
+Of course, playing against the AI opponent is about as productive as playing traditional 3x3 tic-tac-toe.  But, I think it's remarkable that Claude 3.5 Sonnet coded up an [alpha-beta-pruning search strategy](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning#:~:text=Alpha%E2%80%93beta%20pruning%20is%20a,possibly%20influence%20the%20final%20decision.) -- chosen of its own volition (see [tic-tac-go3.py](https://github.com/apollostream/TicTacGo_AI/blob/main/tic-tac-go3.py)). Then when prompted to, it added continuous background thinking.  
 
 Play it. Have fun! (*To be sure, the AI opponent **will** beat you if you aren't diligent!*)
 
