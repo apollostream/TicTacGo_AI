@@ -43,7 +43,10 @@ import copy
 import time
 from dataclasses import dataclass
 ```
+**OR:** Just open this Jupyter notebook in [Google Colab](https://colab.research.google.com/):
 
+* [Tic-Tac-Go-AI.ipynb](https://github.com/apollostream/TicTacGo_AI/blob/main/Tic-Tac-Go-AI.ipynb).
+  
 ## Conclusions
 
 Of course, playing against the AI opponent is about as productive as playing traditional 3x3 tic-tac-toe.  But, I think it's remarkable that Claude 3.5 Sonnet coded up an [alpha-beta-pruning search strategy](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning#:~:text=Alpha%E2%80%93beta%20pruning%20is%20a,possibly%20influence%20the%20final%20decision.) -- chosen of its own volition (see [tic-tac-go3.py](https://github.com/apollostream/TicTacGo_AI/blob/main/tic-tac-go3.py)). Then when prompted to, it added continuous background thinking.  
