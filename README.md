@@ -30,7 +30,7 @@ After a couple more rounds of back and forth, including getting it to add "." in
 
 (*In total, this is the 9th version of the code it generated. It includes my manual code revisions (e.g., ensuring good board spacing & alignment).*)
 
-* [tic-tac-go-threaded3.py]((https://github.com/apollostream/TicTacGo_AI/blob/main/tic-tac-go-threaded3.py)
+* [tic-tac-go-threaded3.py](https://github.com/apollostream/TicTacGo_AI/blob/main/tic-tac-go-threaded3.py)
 
 **NOTE:** You'll have to take it upon yourself to install the necessary packages so that the script's following `import` statements will work:
   
