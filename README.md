@@ -54,4 +54,4 @@ Of course, playing against the AI opponent is about as productive as playing tra
 Play it. Have fun! (*To be sure, the AI opponent **will** beat you if you aren't diligent!*)
 
 * For another intriguing Generative AI project, see my Github repository ["Proposition-Analysis"](https://github.com/apollostream/Proposition-Analysis).
-* For a similar AI-playing "sequence-in-a-row" game, see this repository [AI Gomoku game](https://github.com/YoniAnk/Gomoku-Ai-Player) with informative [paper](https://github.com/YoniAnk/Gomoku-Ai-Player/blob/main/Into%20To%20AI%20-%20Gomoku%20Best%20Player.pdf) by students Or Cohen, Yoni Ankri, and Eran Ella of the Hebrew University of Jerusalem.
+* For a similar AI-playing "sequence-in-a-row" game, which also applied a little bit of LLM help in coding, see this repository [AI Gomoku game](https://github.com/YoniAnk/Gomoku-Ai-Player) with informative [paper](https://github.com/YoniAnk/Gomoku-Ai-Player/blob/main/Into%20To%20AI%20-%20Gomoku%20Best%20Player.pdf) by students Or Cohen, Yoni Ankri, and Eran Ella of the Hebrew University of Jerusalem.
